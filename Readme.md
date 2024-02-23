@@ -10,7 +10,7 @@
 
 ![image](https://github.com/Shailajgautam/Intern_Task/assets/67642075/e0c1be24-c191-481c-8f99-2dc330042f13)
 
-![image](https://github.com/Shailajgautam/Intern_Task/assets/67642075/fc11b9fc-9ef0-4420-bb8e-38d0a268bf93)
+![image](https://github.com/Shailajgautam/Intern_Task/assets/67642075/b91a63ab-91a6-4121-8ec6-3da57f0ef297)
 
 ![image](https://github.com/Shailajgautam/Intern_Task/assets/67642075/dc3248d2-8073-4fe6-87bc-3a1f1477ccf9)
 
