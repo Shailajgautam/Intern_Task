@@ -164,7 +164,7 @@ def main():
 
     for rect_contour in rectangle_contours:
         cv2.rectangle(rotated_image_contour, (rect_contour['BBpoints'][0], rect_contour['BBpoints'][1]),
-                      (rect_contour['BBpoints'][2], rect_contour['BBpoints'][3]), (219, 67, 119), 3)
+                      (rect_contour['BBpoints'][2], rect_contour['BBpoints'][3]), (0, 255, 0), 2)
         cv2.putText(rotated_image_contour, "Rectangle Aligned Image", (120, 28), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 0), 2)
         cv2.rectangle(blank_image, (rect_contour['BBpoints'][0], rect_contour['BBpoints'][1]),
               (rect_contour['BBpoints'][2], rect_contour['BBpoints'][3]), (0, 0, 0), 2)
