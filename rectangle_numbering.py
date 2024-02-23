@@ -143,7 +143,7 @@ def stack_images(scale, img_array):
     return ver
 
 def main():
-    image = cv2.imread('shapedetector.jpg')
+    image = cv2.imread('image.jpg')
     image_contour = image.copy()
 
     image_blur = cv2.GaussianBlur(image, (7, 7), 1)

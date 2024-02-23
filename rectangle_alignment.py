@@ -143,7 +143,7 @@ def stack_images(scale, img_array):
     return ver
 
 def main():
-    image = cv2.imread('shapedetector.jpg')
+    image = cv2.imread('image.jpg')
     original_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     cv2.putText(original_image, "Original RGB Image", (120, 28), cv2.FONT_HERSHEY_DUPLEX, 1, (0, 0, 0), 2)
     cv2.imshow("Original Image", original_image)
