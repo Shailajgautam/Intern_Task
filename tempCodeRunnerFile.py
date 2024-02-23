@@ -1,0 +1,1 @@
+  cv2.imshow("Rectangular Numbering Window", numbered_img_contour)
